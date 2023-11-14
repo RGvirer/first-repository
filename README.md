@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @RGvirer
+# A first-level heading
+## A second-level heading
+### A third-level heading
+** _👋 Hi, I’m Rivka Gvirer_**
 - Enthusiastic software engineering student from Israel
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
