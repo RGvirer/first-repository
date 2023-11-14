@@ -12,7 +12,8 @@
 > [!WARNING]
 >#### Warning to software engineering students
 > It is essential to prioritize self-care and maintain a healthy balance between life as a programming student and life itself. Spending long hours coding and neglecting other aspects of my life can lead to burnout and affect my overall well-being. I will make sure to take breaks, engage in hobbies, exercise and spend time with loved ones. I understand that my mental and physical health is just as important as my programming skills.
-
+>
+> 
 <!---
 RGvirer/RGvirer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
