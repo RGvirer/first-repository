@@ -2,12 +2,13 @@
 ## A second-level heading
 ### A third-level heading
 ***👋 Hi, I’m Rivka Gvirer***
-- Enthusiastic software engineering student from Israel
+- software engineering student from Israel
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...`hsl(212, 92%, 45%)`
-- > [!NOTE]
+
+> [!NOTE]
 > Highlights information that users should take into account, even when skimming.
 
 > [!IMPORTANT]
