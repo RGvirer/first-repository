@@ -7,6 +7,14 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...`hsl(212, 92%, 45%)`
+- > [!NOTE]
+> Highlights information that users should take into account, even when skimming.
+
+> [!IMPORTANT]
+> Crucial information necessary for users to succeed.
+
+> [!WARNING]
+> Critical content demanding immediate user attention due to potential risks.
 
 <!---
 RGvirer/RGvirer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
