@@ -1,7 +1,7 @@
 # A first-level heading
 ## A second-level heading
 ### A third-level heading
-** _👋 Hi, I’m Rivka Gvirer_**
+***👋 Hi, I’m Rivka Gvirer***
 - Enthusiastic software engineering student from Israel
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
